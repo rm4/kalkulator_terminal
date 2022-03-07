@@ -7,16 +7,16 @@ fun main() {
         print("Masukkan aksi operasi - Tambah(a), Kurang(b), Perkalian(c), Pembagian (d): ")
         when (readLine()) {
             "a" -> {
-               //fungsi tambah              
+               //fungsi tambah
             }
-            "b" -> {                
+            "b" -> {
                //fungsi kurang
             }
-            "c" -> {git 
-                print("Hasil = ${angka1*angka2}")
-            }q
+            "c" -> {
+               //fungsi perkalian
+            }
             "d" -> {
-               //fungsi pembagian            
+               //fungsi pembagian
             }
             else -> {
                 print("Operasi yang dimasukkan tidak valid")
