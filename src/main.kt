@@ -14,6 +14,7 @@ fun main() {
             }
             "c" -> {
                //fungsi perkalian
+                print("Hasil = ${angka1*angka2}")
             }
             "d" -> {
                //fungsi pembagian
