@@ -19,6 +19,7 @@ fun main() {
             }
             "d" -> {
                //fungsi pembagian
+                print("Hasil = ${angka1/angka2}")
             }
             else -> {
                 print("Operasi yang dimasukkan tidak valid")
