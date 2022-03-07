@@ -11,6 +11,7 @@ fun main() {
                 print("Hasil = ${angka1+angka2}")
             }
             "b" -> {
+                print("Hasil = ${angka1-angka2}")
                //fungsi kurang
             }
             "c" -> {
