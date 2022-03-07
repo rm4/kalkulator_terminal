@@ -7,19 +7,16 @@ fun main() {
         print("Masukkan aksi operasi - Tambah(a), Kurang(b), Perkalian(c), Pembagian (d): ")
         when (readLine()) {
             "a" -> {
-               //fungsi tambah
-                print("Hasil = ${angka1+angka2}")
+               //fungsi tambah              
             }
-            "b" -> {
-                print("Hasil = ${angka1-angka2}")
+            "b" -> {                
                //fungsi kurang
             }
             "c" -> {
-               //fungsi perkalian
+                print("Hasil = ${angka1*angka2}")
             }
             "d" -> {
-               //fungsi pembagian
-                print("Hasil = ${angka1/angka2}")
+               //fungsi pembagian            
             }
             else -> {
                 print("Operasi yang dimasukkan tidak valid")
