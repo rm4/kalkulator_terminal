@@ -8,9 +8,10 @@ fun main() {
         when (readLine()) {
             "a" -> {
                //fungsi tambah
+               
             }
             "b" -> {              
-              print("Hasil = ${angka1-angka2}")                             
+                print("Hasil = ${angka1-angka2}")                             
             }
             "c" -> {
                //fungsi perkalian
@@ -18,6 +19,7 @@ fun main() {
             }
             "d" -> {
                //fungsi pembagian
+
             }
             else -> {
                 print("Operasi yang dimasukkan tidak valid")
