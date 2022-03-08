@@ -10,8 +10,7 @@ fun main() {
                //fungsi tambah
             }
             "b" -> {
-                print("Hasil = ${angka1-angka2}")
-               //fungsi kurang
+                print("Hasil = ${angka1-angka2}")              
             }
             "c" -> {
                //fungsi perkalian
