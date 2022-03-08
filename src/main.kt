@@ -10,7 +10,8 @@ fun main() {
                 print("Hasil = ${angka1+angka2}")
             }
             "b" -> {              
-                print("Hasil = ${angka1-angka2}")                             
+                print("Hasil = ${angka1-angka2}")
+                //adding comments for pengurangan
             }
             "c" -> {
                print("Hasil = ${angka1*angka2}")         
