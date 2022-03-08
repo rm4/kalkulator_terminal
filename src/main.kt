@@ -14,10 +14,9 @@ fun main() {
             }
             "c" -> {
                print("Hasil = ${angka1*angka2}")         
-            }
-            "d" -> {
-               //fungsi pembagian
-
+            }         
+            "d" -> {               
+                print("Hasil = ${angka1/angka2}")
             }
             else -> {
                 print("Operasi yang dimasukkan tidak valid")
