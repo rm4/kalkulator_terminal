@@ -13,7 +13,7 @@ fun main() {
                 print("Hasil = ${angka1-angka2}")                             
             }
             "c" -> {
-               //fungsi perkalian               
+               print("Hasil = ${angka1*angka2}")         
             }
             "d" -> {
                //fungsi pembagian
