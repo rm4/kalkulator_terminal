@@ -8,13 +8,13 @@ fun main() {
         when (readLine()) {
             "a" -> {
                //fungsi tambah
+                print("Hasil = ${angka1+angka2}")
             }
             "b" -> {
                //fungsi kurang
             }
             "c" -> {
-               //fungsi perkalian
-                print("Hasil = ${angka1*angka2}")
+               //fungsi perkalian               
             }
             "d" -> {
                //fungsi pembagian
