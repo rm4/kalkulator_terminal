@@ -15,8 +15,7 @@ fun main() {
             "c" -> {
                //fungsi perkalian
             }
-            "d" -> {
-               //fungsi pembagian
+            "d" -> {               
                 print("Hasil = ${angka1/angka2}")
             }
             else -> {
