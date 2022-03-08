@@ -6,13 +6,8 @@ fun main() {
         val angka2 = readLine()!!.toDouble()
         print("Masukkan aksi operasi - Tambah(a), Kurang(b), Perkalian(c), Pembagian (d): ")
         when (readLine()) {
-            "a" -> {
-               //fungsi tambah
-<<<<<<< HEAD
-               
-=======
+            "a" -> {               
                 print("Hasil = ${angka1+angka2}")
->>>>>>> feature/penjumlahan
             }
             "b" -> {              
                 print("Hasil = ${angka1-angka2}")                             
