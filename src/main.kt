@@ -6,17 +6,17 @@ fun main() {
         val angka2 = readLine()!!.toDouble()
         print("Masukkan aksi operasi - Tambah(a), Kurang(b), Perkalian(c), Pembagian (d): ")
         when (readLine()) {
-            "a" -> {
-               //fungsi tambah              
+            "a" -> {                          
             }
-            "b" -> {                
-               //fungsi kurang
+            "b" -> {              
+                                    
             }
             "c" -> {
-                print("Hasil = ${angka1*angka2}")
+               print("Hasil = ${angka1*angka2}")         
             }
             "d" -> {
-               //fungsi pembagian            
+               //fungsi pembagian
+
             }
             else -> {
                 print("Operasi yang dimasukkan tidak valid")
