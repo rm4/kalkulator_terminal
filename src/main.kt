@@ -8,14 +8,17 @@ fun main() {
         when (readLine()) {
             "a" -> {
                //fungsi tambah
+<<<<<<< HEAD
                
+=======
+                print("Hasil = ${angka1+angka2}")
+>>>>>>> feature/penjumlahan
             }
             "b" -> {              
                 print("Hasil = ${angka1-angka2}")                             
             }
             "c" -> {
-               //fungsi perkalian
-                print("Hasil = ${angka1*angka2}")
+               //fungsi perkalian               
             }
             "d" -> {
                //fungsi pembagian
